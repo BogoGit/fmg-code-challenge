@@ -1,4 +1,4 @@
-# FMG Demo Application
+# FMG Demo Application [COMPLETE]
 
 ### Server Side Instructions
 
