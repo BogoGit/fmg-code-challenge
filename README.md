@@ -1,5 +1,12 @@
 # FMG Demo Application [COMPLETE]
 
+### Updated/Added Files
+
+- LinkedIn.js / LinkedIn.css
+- LinkedInController.cs
+- LinkedInService.cs
+- Startup.cs
+
 ### Server Side Instructions
 
 - Get a valid LinkedIn token from FMG contact
